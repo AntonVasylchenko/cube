@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cube/static/css/main.1d3e3d78.css",
+    "main.js": "/cube/static/js/main.71a5622b.js",
+    "index.html": "/cube/index.html",
+    "main.1d3e3d78.css.map": "/cube/static/css/main.1d3e3d78.css.map",
+    "main.71a5622b.js.map": "/cube/static/js/main.71a5622b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d3e3d78.css",
+    "static/js/main.71a5622b.js"
+  ]
+}
